@@ -13024,3 +13024,443 @@ Known labextensions:
 [W 07:23:28.963 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877808789 (143.165.192.134) 1.44ms referer=http://mobilytics.in:8888/lab?
 [W 07:23:39.955 NotebookApp] No such file or directory: Stock Market
 [W 07:23:39.956 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877819783 (143.165.192.134) 1.47ms referer=http://mobilytics.in:8888/lab?
+[W 07:23:50.957 NotebookApp] No such file or directory: Stock Market
+[W 07:23:50.958 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877830783 (143.165.192.134) 1.57ms referer=http://mobilytics.in:8888/lab?
+[W 07:24:00.958 NotebookApp] No such file or directory: Stock Market
+[W 07:24:00.958 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877840798 (143.165.192.134) 1.55ms referer=http://mobilytics.in:8888/lab?
+[W 07:24:10.965 NotebookApp] No such file or directory: Stock Market
+[W 07:24:10.966 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877850798 (143.165.192.134) 1.54ms referer=http://mobilytics.in:8888/lab?
+[W 07:24:21.965 NotebookApp] No such file or directory: Stock Market
+[W 07:24:21.966 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877861804 (143.165.192.134) 1.77ms referer=http://mobilytics.in:8888/lab?
+[W 07:24:32.969 NotebookApp] No such file or directory: Stock Market
+[W 07:24:32.970 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877872801 (143.165.192.134) 1.60ms referer=http://mobilytics.in:8888/lab?
+[W 07:24:43.964 NotebookApp] No such file or directory: Stock Market
+[W 07:24:43.967 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877883802 (143.165.192.134) 3.27ms referer=http://mobilytics.in:8888/lab?
+[W 07:24:54.965 NotebookApp] No such file or directory: Stock Market
+[W 07:24:54.965 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877894798 (143.165.192.134) 1.48ms referer=http://mobilytics.in:8888/lab?
+[W 07:25:04.966 NotebookApp] No such file or directory: Stock Market
+[W 07:25:04.967 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877904802 (143.165.192.134) 1.54ms referer=http://mobilytics.in:8888/lab?
+[W 07:25:15.964 NotebookApp] No such file or directory: Stock Market
+[W 07:25:15.965 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877915802 (143.165.192.134) 2.66ms referer=http://mobilytics.in:8888/lab?
+[W 07:25:25.970 NotebookApp] No such file or directory: Stock Market
+[W 07:25:25.970 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877925809 (143.165.192.134) 1.51ms referer=http://mobilytics.in:8888/lab?
+[W 07:25:36.967 NotebookApp] No such file or directory: Stock Market
+[W 07:25:36.967 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877936802 (143.165.192.134) 1.50ms referer=http://mobilytics.in:8888/lab?
+[W 07:25:46.975 NotebookApp] No such file or directory: Stock Market
+[W 07:25:46.975 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877946811 (143.165.192.134) 1.56ms referer=http://mobilytics.in:8888/lab?
+[I 07:25:49.833 NotebookApp] Saving file at /Model Deployment.ipynb
+[W 07:25:57.972 NotebookApp] No such file or directory: Stock Market
+[W 07:25:57.973 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877957806 (143.165.192.134) 1.50ms referer=http://mobilytics.in:8888/lab?
+[W 07:26:09.097 NotebookApp] No such file or directory: Stock Market
+[W 07:26:09.098 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877968813 (143.165.192.134) 1.55ms referer=http://mobilytics.in:8888/lab?
+[W 07:26:19.967 NotebookApp] No such file or directory: Stock Market
+[W 07:26:19.968 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877979805 (143.165.192.134) 1.50ms referer=http://mobilytics.in:8888/lab?
+[W 07:26:30.972 NotebookApp] No such file or directory: Stock Market
+[W 07:26:30.973 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514877990806 (143.165.192.134) 1.23ms referer=http://mobilytics.in:8888/lab?
+[W 07:26:41.977 NotebookApp] No such file or directory: Stock Market
+[W 07:26:41.977 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878001809 (143.165.192.134) 1.24ms referer=http://mobilytics.in:8888/lab?
+[W 07:26:53.118 NotebookApp] No such file or directory: Stock Market
+[W 07:26:53.119 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878012803 (143.165.48.50) 1.19ms referer=http://mobilytics.in:8888/lab?
+[W 07:27:03.120 NotebookApp] No such file or directory: Stock Market
+[W 07:27:03.121 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878022812 (143.165.48.50) 1.19ms referer=http://mobilytics.in:8888/lab?
+[W 07:27:13.122 NotebookApp] No such file or directory: Stock Market
+[W 07:27:13.122 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878032814 (143.165.48.50) 1.20ms referer=http://mobilytics.in:8888/lab?
+[W 07:27:22.986 NotebookApp] No such file or directory: Stock Market
+[W 07:27:22.986 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878042822 (143.165.192.134) 1.21ms referer=http://mobilytics.in:8888/lab?
+[W 07:27:34.121 NotebookApp] No such file or directory: Stock Market
+[W 07:27:34.121 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878053811 (143.165.48.50) 1.16ms referer=http://mobilytics.in:8888/lab?
+[W 07:27:44.124 NotebookApp] No such file or directory: Stock Market
+[W 07:27:44.124 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878063813 (143.165.48.50) 1.18ms referer=http://mobilytics.in:8888/lab?
+[I 07:27:50.182 NotebookApp] Saving file at /Model Deployment.ipynb
+[W 07:27:54.348 NotebookApp] No such file or directory: Stock Market
+[W 07:27:54.348 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878073818 (143.165.48.50) 1.16ms referer=http://mobilytics.in:8888/lab?
+[W 07:28:05.128 NotebookApp] No such file or directory: Stock Market
+[W 07:28:05.128 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878084814 (143.165.48.50) 1.22ms referer=http://mobilytics.in:8888/lab?
+[W 07:28:15.130 NotebookApp] No such file or directory: Stock Market
+[W 07:28:15.130 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878094815 (143.165.48.50) 1.28ms referer=http://mobilytics.in:8888/lab?
+[W 07:28:26.127 NotebookApp] No such file or directory: Stock Market
+[W 07:28:26.127 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878105812 (143.165.48.50) 1.19ms referer=http://mobilytics.in:8888/lab?
+[W 07:28:37.127 NotebookApp] No such file or directory: Stock Market
+[W 07:28:37.128 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878116810 (143.165.48.50) 1.28ms referer=http://mobilytics.in:8888/lab?
+[W 07:28:47.131 NotebookApp] No such file or directory: Stock Market
+[W 07:28:47.132 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878126814 (143.165.48.50) 1.98ms referer=http://mobilytics.in:8888/lab?
+[W 07:28:57.137 NotebookApp] No such file or directory: Stock Market
+[W 07:28:57.138 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878136819 (143.165.48.50) 1.20ms referer=http://mobilytics.in:8888/lab?
+[W 07:29:07.129 NotebookApp] No such file or directory: Stock Market
+[W 07:29:07.129 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878146820 (143.165.48.50) 1.20ms referer=http://mobilytics.in:8888/lab?
+[W 07:29:17.132 NotebookApp] No such file or directory: Stock Market
+[W 07:29:17.132 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878156826 (143.165.48.50) 1.19ms referer=http://mobilytics.in:8888/lab?
+[W 07:29:27.137 NotebookApp] No such file or directory: Stock Market
+[W 07:29:27.138 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878166828 (143.165.48.50) 1.22ms referer=http://mobilytics.in:8888/lab?
+[W 07:29:38.138 NotebookApp] No such file or directory: Stock Market
+[W 07:29:38.138 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878177827 (143.165.48.50) 1.29ms referer=http://mobilytics.in:8888/lab?
+[W 07:29:48.995 NotebookApp] No such file or directory: Stock Market
+[W 07:29:48.995 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878188825 (143.165.192.134) 1.21ms referer=http://mobilytics.in:8888/lab?
+[I 07:29:50.183 NotebookApp] Saving file at /Model Deployment.ipynb
+[W 07:29:58.994 NotebookApp] No such file or directory: Stock Market
+[W 07:29:58.994 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878198827 (143.165.192.134) 1.24ms referer=http://mobilytics.in:8888/lab?
+[W 07:30:10.134 NotebookApp] No such file or directory: Stock Market
+[W 07:30:10.134 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878209817 (143.165.48.50) 1.25ms referer=http://mobilytics.in:8888/lab?
+[W 07:30:20.139 NotebookApp] No such file or directory: Stock Market
+[W 07:30:20.140 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878219825 (143.165.48.50) 1.23ms referer=http://mobilytics.in:8888/lab?
+[W 07:30:31.137 NotebookApp] No such file or directory: Stock Market
+[W 07:30:31.137 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878230818 (143.165.48.50) 1.16ms referer=http://mobilytics.in:8888/lab?
+[W 07:30:42.137 NotebookApp] No such file or directory: Stock Market
+[W 07:30:42.138 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878241818 (143.165.48.50) 1.25ms referer=http://mobilytics.in:8888/lab?
+[W 07:30:52.141 NotebookApp] No such file or directory: Stock Market
+[W 07:30:52.141 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878251821 (143.165.48.50) 1.20ms referer=http://mobilytics.in:8888/lab?
+[W 07:31:02.142 NotebookApp] No such file or directory: Stock Market
+[W 07:31:02.143 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878261828 (143.165.48.50) 1.18ms referer=http://mobilytics.in:8888/lab?
+[W 07:31:13.143 NotebookApp] No such file or directory: Stock Market
+[W 07:31:13.143 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878272825 (143.165.48.50) 1.18ms referer=http://mobilytics.in:8888/lab?
+[W 07:31:24.138 NotebookApp] No such file or directory: Stock Market
+[W 07:31:24.138 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878283821 (143.165.48.50) 1.23ms referer=http://mobilytics.in:8888/lab?
+[W 07:31:35.140 NotebookApp] No such file or directory: Stock Market
+[W 07:31:35.141 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878294820 (143.165.48.50) 1.25ms referer=http://mobilytics.in:8888/lab?
+[W 07:31:46.147 NotebookApp] No such file or directory: Stock Market
+[W 07:31:46.148 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878305825 (143.165.48.50) 1.22ms referer=http://mobilytics.in:8888/lab?
+[I 07:31:50.230 NotebookApp] Saving file at /Model Deployment.ipynb
+[W 07:31:57.145 NotebookApp] No such file or directory: Stock Market
+[W 07:31:57.146 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878316823 (143.165.48.50) 1.25ms referer=http://mobilytics.in:8888/lab?
+[W 07:32:07.140 NotebookApp] No such file or directory: Stock Market
+[W 07:32:07.141 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878326825 (143.165.48.50) 1.20ms referer=http://mobilytics.in:8888/lab?
+[W 07:32:17.153 NotebookApp] No such file or directory: Stock Market
+[W 07:32:17.153 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878336833 (143.165.48.50) 1.21ms referer=http://mobilytics.in:8888/lab?
+[W 07:32:28.146 NotebookApp] No such file or directory: Stock Market
+[W 07:32:28.147 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878347828 (143.165.48.50) 0.97ms referer=http://mobilytics.in:8888/lab?
+[W 07:32:38.155 NotebookApp] No such file or directory: Stock Market
+[W 07:32:38.155 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878357835 (143.165.48.50) 1.20ms referer=http://mobilytics.in:8888/lab?
+[W 07:32:49.069 NotebookApp] No such file or directory: Stock Market
+[W 07:32:49.069 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878368834 (143.165.192.134) 1.20ms referer=http://mobilytics.in:8888/lab?
+[W 07:33:00.151 NotebookApp] No such file or directory: Stock Market
+[W 07:33:00.152 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878379847 (143.165.48.50) 1.22ms referer=http://mobilytics.in:8888/lab?
+[W 07:33:11.147 NotebookApp] No such file or directory: Stock Market
+[W 07:33:11.147 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878390841 (143.165.48.50) 1.23ms referer=http://mobilytics.in:8888/lab?
+[W 07:33:21.154 NotebookApp] No such file or directory: Stock Market
+[W 07:33:21.155 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878400848 (143.165.48.50) 1.21ms referer=http://mobilytics.in:8888/lab?
+[W 07:33:32.153 NotebookApp] No such file or directory: Stock Market
+[W 07:33:32.153 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878411845 (143.165.48.50) 1.20ms referer=http://mobilytics.in:8888/lab?
+[W 07:33:43.148 NotebookApp] No such file or directory: Stock Market
+[W 07:33:43.149 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878422839 (143.165.48.50) 1.19ms referer=http://mobilytics.in:8888/lab?
+[I 07:33:50.197 NotebookApp] Saving file at /Model Deployment.ipynb
+[W 07:33:54.154 NotebookApp] No such file or directory: Stock Market
+[W 07:33:54.154 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878433844 (143.165.48.50) 1.22ms referer=http://mobilytics.in:8888/lab?
+[W 07:34:04.154 NotebookApp] No such file or directory: Stock Market
+[W 07:34:04.154 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878443847 (143.165.48.50) 1.25ms referer=http://mobilytics.in:8888/lab?
+[W 07:34:15.152 NotebookApp] No such file or directory: Stock Market
+[W 07:34:15.153 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878454846 (143.165.48.50) 1.22ms referer=http://mobilytics.in:8888/lab?
+[W 07:34:25.154 NotebookApp] No such file or directory: Stock Market
+[W 07:34:25.154 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878464847 (143.165.48.50) 1.23ms referer=http://mobilytics.in:8888/lab?
+[W 07:34:36.161 NotebookApp] No such file or directory: Stock Market
+[W 07:34:36.162 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878475853 (143.165.48.50) 1.28ms referer=http://mobilytics.in:8888/lab?
+[W 07:34:47.165 NotebookApp] No such file or directory: Stock Market
+[W 07:34:47.165 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878486853 (143.165.48.50) 1.21ms referer=http://mobilytics.in:8888/lab?
+[W 07:34:58.158 NotebookApp] No such file or directory: Stock Market
+[W 07:34:58.159 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878497848 (143.165.48.50) 1.23ms referer=http://mobilytics.in:8888/lab?
+[W 07:35:09.016 NotebookApp] No such file or directory: Stock Market
+[W 07:35:09.016 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878508837 (143.165.192.134) 1.22ms referer=http://mobilytics.in:8888/lab?
+[W 07:35:20.160 NotebookApp] No such file or directory: Stock Market
+[W 07:35:20.160 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878519832 (143.165.48.50) 1.19ms referer=http://mobilytics.in:8888/lab?
+[W 07:35:31.169 NotebookApp] No such file or directory: Stock Market
+[W 07:35:31.171 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878530838 (143.165.48.50) 2.52ms referer=http://mobilytics.in:8888/lab?
+[W 07:35:42.166 NotebookApp] No such file or directory: Stock Market
+[W 07:35:42.167 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878541835 (143.165.48.50) 1.62ms referer=http://mobilytics.in:8888/lab?
+[I 07:35:50.393 NotebookApp] Saving file at /Model Deployment.ipynb
+[W 07:35:52.171 NotebookApp] No such file or directory: Stock Market
+[W 07:35:52.172 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878551839 (143.165.48.50) 1.56ms referer=http://mobilytics.in:8888/lab?
+[W 07:36:03.171 NotebookApp] No such file or directory: Stock Market
+[W 07:36:03.171 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878562852 (143.165.48.50) 1.55ms referer=http://mobilytics.in:8888/lab?
+[W 07:36:14.174 NotebookApp] No such file or directory: Stock Market
+[W 07:36:14.175 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878573853 (143.165.48.50) 1.56ms referer=http://mobilytics.in:8888/lab?
+[W 07:36:25.167 NotebookApp] No such file or directory: Stock Market
+[W 07:36:25.167 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878584845 (143.165.48.50) 1.60ms referer=http://mobilytics.in:8888/lab?
+[W 07:36:35.174 NotebookApp] No such file or directory: Stock Market
+[W 07:36:35.175 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878594852 (143.165.48.50) 1.75ms referer=http://mobilytics.in:8888/lab?
+[W 07:36:46.172 NotebookApp] No such file or directory: Stock Market
+[W 07:36:46.173 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878605851 (143.165.48.50) 1.59ms referer=http://mobilytics.in:8888/lab?
+[W 07:36:57.186 NotebookApp] No such file or directory: Stock Market
+[W 07:36:57.187 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878616846 (143.165.48.50) 1.54ms referer=http://mobilytics.in:8888/lab?
+[W 07:37:07.170 NotebookApp] No such file or directory: Stock Market
+[W 07:37:07.171 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878626858 (143.165.48.50) 1.59ms referer=http://mobilytics.in:8888/lab?
+[W 07:37:17.174 NotebookApp] No such file or directory: Stock Market
+[W 07:37:17.175 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878636860 (143.165.48.50) 1.63ms referer=http://mobilytics.in:8888/lab?
+[W 07:37:27.176 NotebookApp] No such file or directory: Stock Market
+[W 07:37:27.176 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878646863 (143.165.48.50) 1.56ms referer=http://mobilytics.in:8888/lab?
+[W 07:37:38.175 NotebookApp] No such file or directory: Stock Market
+[W 07:37:38.175 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878657860 (143.165.48.50) 1.53ms referer=http://mobilytics.in:8888/lab?
+[W 07:37:48.179 NotebookApp] No such file or directory: Stock Market
+[W 07:37:48.179 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878667861 (143.165.48.50) 1.51ms referer=http://mobilytics.in:8888/lab?
+[W 07:37:58.184 NotebookApp] No such file or directory: Stock Market
+[W 07:37:58.185 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878677867 (143.165.48.50) 1.47ms referer=http://mobilytics.in:8888/lab?
+[W 07:38:09.039 NotebookApp] No such file or directory: Stock Market
+[W 07:38:09.040 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878688874 (143.165.192.134) 1.44ms referer=http://mobilytics.in:8888/lab?
+[W 07:38:20.176 NotebookApp] No such file or directory: Stock Market
+[W 07:38:20.176 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878699866 (143.165.48.50) 1.47ms referer=http://mobilytics.in:8888/lab?
+[W 07:38:30.183 NotebookApp] No such file or directory: Stock Market
+[W 07:38:30.183 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878709870 (143.165.48.50) 1.47ms referer=http://mobilytics.in:8888/lab?
+[W 07:38:41.187 NotebookApp] No such file or directory: Stock Market
+[W 07:38:41.188 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878720868 (143.165.48.50) 1.45ms referer=http://mobilytics.in:8888/lab?
+[W 07:38:52.185 NotebookApp] No such file or directory: Stock Market
+[W 07:38:52.185 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878731869 (143.165.48.50) 1.48ms referer=http://mobilytics.in:8888/lab?
+[W 07:39:03.182 NotebookApp] No such file or directory: Stock Market
+[W 07:39:03.182 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878742864 (143.165.48.50) 1.48ms referer=http://mobilytics.in:8888/lab?
+[W 07:39:13.177 NotebookApp] No such file or directory: Stock Market
+[W 07:39:13.177 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878752868 (143.165.48.50) 1.29ms referer=http://mobilytics.in:8888/lab?
+[W 07:39:23.187 NotebookApp] No such file or directory: Stock Market
+[W 07:39:23.188 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878762876 (143.165.48.50) 1.18ms referer=http://mobilytics.in:8888/lab?
+[W 07:39:34.185 NotebookApp] No such file or directory: Stock Market
+[W 07:39:34.185 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878773875 (143.165.48.50) 1.19ms referer=http://mobilytics.in:8888/lab?
+[W 07:39:45.184 NotebookApp] No such file or directory: Stock Market
+[W 07:39:45.184 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878784870 (143.165.48.50) 1.19ms referer=http://mobilytics.in:8888/lab?
+[W 07:39:55.187 NotebookApp] No such file or directory: Stock Market
+[W 07:39:55.188 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878794872 (143.165.48.50) 1.20ms referer=http://mobilytics.in:8888/lab?
+[W 07:40:05.186 NotebookApp] No such file or directory: Stock Market
+[W 07:40:05.186 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878804874 (143.165.48.50) 1.27ms referer=http://mobilytics.in:8888/lab?
+[W 07:40:15.192 NotebookApp] No such file or directory: Stock Market
+[W 07:40:15.192 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878814879 (143.165.48.50) 1.19ms referer=http://mobilytics.in:8888/lab?
+[W 07:40:26.195 NotebookApp] No such file or directory: Stock Market
+[W 07:40:26.195 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878825880 (143.165.48.50) 1.21ms referer=http://mobilytics.in:8888/lab?
+[W 07:40:37.187 NotebookApp] No such file or directory: Stock Market
+[W 07:40:37.188 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878836873 (143.165.48.50) 1.24ms referer=http://mobilytics.in:8888/lab?
+[W 07:40:48.187 NotebookApp] No such file or directory: Stock Market
+[W 07:40:48.187 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878847872 (143.165.48.50) 1.21ms referer=http://mobilytics.in:8888/lab?
+[W 07:40:58.192 NotebookApp] No such file or directory: Stock Market
+[W 07:40:58.192 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878857876 (143.165.48.50) 1.18ms referer=http://mobilytics.in:8888/lab?
+[W 07:41:09.052 NotebookApp] No such file or directory: Stock Market
+[W 07:41:09.052 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878868884 (143.165.192.134) 1.23ms referer=http://mobilytics.in:8888/lab?
+[W 07:41:20.193 NotebookApp] No such file or directory: Stock Market
+[W 07:41:20.193 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878879880 (143.165.48.50) 1.30ms referer=http://mobilytics.in:8888/lab?
+[W 07:41:30.198 NotebookApp] No such file or directory: Stock Market
+[W 07:41:30.198 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878889882 (143.165.48.50) 1.27ms referer=http://mobilytics.in:8888/lab?
+[W 07:41:41.197 NotebookApp] No such file or directory: Stock Market
+[W 07:41:41.197 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878900885 (143.165.48.50) 1.22ms referer=http://mobilytics.in:8888/lab?
+[I 07:41:50.451 NotebookApp] Saving file at /Model Deployment.ipynb
+[W 07:41:52.195 NotebookApp] No such file or directory: Stock Market
+[W 07:41:52.196 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878911876 (143.165.48.50) 1.18ms referer=http://mobilytics.in:8888/lab?
+[W 07:42:02.199 NotebookApp] No such file or directory: Stock Market
+[W 07:42:02.200 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878921882 (143.165.48.50) 1.21ms referer=http://mobilytics.in:8888/lab?
+[W 07:42:13.204 NotebookApp] No such file or directory: Stock Market
+[W 07:42:13.204 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878932873 (143.165.48.50) 1.22ms referer=http://mobilytics.in:8888/lab?
+[W 07:42:24.194 NotebookApp] No such file or directory: Stock Market
+[W 07:42:24.194 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878943864 (143.165.48.50) 1.26ms referer=http://mobilytics.in:8888/lab?
+[W 07:42:34.206 NotebookApp] No such file or directory: Stock Market
+[W 07:42:34.206 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878953873 (143.165.48.50) 1.26ms referer=http://mobilytics.in:8888/lab?
+[W 07:42:45.208 NotebookApp] No such file or directory: Stock Market
+[W 07:42:45.209 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878964872 (143.165.48.50) 2.20ms referer=http://mobilytics.in:8888/lab?
+[W 07:42:56.195 NotebookApp] No such file or directory: Stock Market
+[W 07:42:56.195 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878975863 (143.165.48.50) 1.25ms referer=http://mobilytics.in:8888/lab?
+[W 07:43:06.200 NotebookApp] No such file or directory: Stock Market
+[W 07:43:06.200 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878985865 (143.165.48.50) 1.29ms referer=http://mobilytics.in:8888/lab?
+[W 07:43:16.207 NotebookApp] No such file or directory: Stock Market
+[W 07:43:16.207 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514878995875 (143.165.48.50) 1.19ms referer=http://mobilytics.in:8888/lab?
+[W 07:43:27.200 NotebookApp] No such file or directory: Stock Market
+[W 07:43:27.200 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879006868 (143.165.48.50) 1.20ms referer=http://mobilytics.in:8888/lab?
+[W 07:43:37.205 NotebookApp] No such file or directory: Stock Market
+[W 07:43:37.206 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879016871 (143.165.48.50) 1.22ms referer=http://mobilytics.in:8888/lab?
+[W 07:43:48.057 NotebookApp] No such file or directory: Stock Market
+[W 07:43:48.057 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879027867 (143.165.192.134) 1.16ms referer=http://mobilytics.in:8888/lab?
+[I 07:43:50.434 NotebookApp] Saving file at /Model Deployment.ipynb
+[W 07:43:58.210 NotebookApp] No such file or directory: Stock Market
+[W 07:43:58.210 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879037875 (143.165.48.50) 1.22ms referer=http://mobilytics.in:8888/lab?
+[W 07:44:09.211 NotebookApp] No such file or directory: Stock Market
+[W 07:44:09.212 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879048880 (143.165.48.50) 1.12ms referer=http://mobilytics.in:8888/lab?
+[W 07:44:20.208 NotebookApp] No such file or directory: Stock Market
+[W 07:44:20.208 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879059879 (143.165.48.50) 1.18ms referer=http://mobilytics.in:8888/lab?
+[W 07:44:31.202 NotebookApp] No such file or directory: Stock Market
+[W 07:44:31.203 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879070872 (143.165.48.50) 1.20ms referer=http://mobilytics.in:8888/lab?
+[W 07:44:41.213 NotebookApp] No such file or directory: Stock Market
+[W 07:44:41.214 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879080880 (143.165.48.50) 1.21ms referer=http://mobilytics.in:8888/lab?
+[W 07:44:52.213 NotebookApp] No such file or directory: Stock Market
+[W 07:44:52.213 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879091879 (143.165.48.50) 1.15ms referer=http://mobilytics.in:8888/lab?
+[W 07:45:03.208 NotebookApp] No such file or directory: Stock Market
+[W 07:45:03.208 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879102873 (143.165.48.50) 1.22ms referer=http://mobilytics.in:8888/lab?
+[W 07:45:04.230 NotebookApp] delete /example.db
+[W 07:45:13.214 NotebookApp] No such file or directory: Stock Market
+[W 07:45:13.214 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879112882 (143.165.48.50) 1.24ms referer=http://mobilytics.in:8888/lab?
+[W 07:45:24.212 NotebookApp] No such file or directory: Stock Market
+[W 07:45:24.213 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879123877 (143.165.48.50) 1.20ms referer=http://mobilytics.in:8888/lab?
+[W 07:45:34.220 NotebookApp] No such file or directory: Stock Market
+[W 07:45:34.220 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879133886 (143.165.48.50) 1.25ms referer=http://mobilytics.in:8888/lab?
+[W 07:45:45.222 NotebookApp] No such file or directory: Stock Market
+[W 07:45:45.223 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879144886 (143.165.48.50) 1.38ms referer=http://mobilytics.in:8888/lab?
+[I 07:45:50.456 NotebookApp] Saving file at /Model Deployment.ipynb
+[W 07:45:56.214 NotebookApp] No such file or directory: Stock Market
+[W 07:45:56.215 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879155877 (143.165.48.50) 2.49ms referer=http://mobilytics.in:8888/lab?
+[W 07:46:06.221 NotebookApp] No such file or directory: Stock Market
+[W 07:46:06.221 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879165884 (143.165.48.50) 1.21ms referer=http://mobilytics.in:8888/lab?
+[W 07:46:16.217 NotebookApp] No such file or directory: Stock Market
+[W 07:46:16.217 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879175904 (143.165.48.50) 1.19ms referer=http://mobilytics.in:8888/lab?
+[W 07:46:27.215 NotebookApp] No such file or directory: Stock Market
+[W 07:46:27.216 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879186900 (143.165.48.50) 1.25ms referer=http://mobilytics.in:8888/lab?
+[W 07:46:38.216 NotebookApp] No such file or directory: Stock Market
+[W 07:46:38.217 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879197900 (143.165.48.50) 1.25ms referer=http://mobilytics.in:8888/lab?
+[W 07:46:48.218 NotebookApp] No such file or directory: Stock Market
+[W 07:46:48.218 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879207900 (143.165.48.50) 1.28ms referer=http://mobilytics.in:8888/lab?
+[W 07:46:58.242 NotebookApp] No such file or directory: Stock Market
+[W 07:46:58.243 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879217904 (143.165.48.50) 1.23ms referer=http://mobilytics.in:8888/lab?
+[W 07:47:08.224 NotebookApp] No such file or directory: Stock Market
+[W 07:47:08.224 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879227906 (143.165.48.50) 1.21ms referer=http://mobilytics.in:8888/lab?
+[W 07:47:19.118 NotebookApp] No such file or directory: Stock Market
+[W 07:47:19.119 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879238892 (143.165.192.134) 1.29ms referer=http://mobilytics.in:8888/lab?
+[W 07:47:29.088 NotebookApp] No such file or directory: Stock Market
+[W 07:47:29.088 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879248898 (143.165.192.134) 1.27ms referer=http://mobilytics.in:8888/lab?
+[W 07:47:39.092 NotebookApp] No such file or directory: Stock Market
+[W 07:47:39.093 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879258902 (143.165.192.134) 1.20ms referer=http://mobilytics.in:8888/lab?
+[W 07:47:50.229 NotebookApp] No such file or directory: Stock Market
+[W 07:47:50.229 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879269891 (143.165.48.50) 1.21ms referer=http://mobilytics.in:8888/lab?
+[I 07:47:50.675 NotebookApp] Saving file at /Model Deployment.ipynb
+[W 07:48:00.228 NotebookApp] No such file or directory: Stock Market
+[W 07:48:00.228 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879279892 (143.165.48.50) 1.42ms referer=http://mobilytics.in:8888/lab?
+[W 07:48:11.231 NotebookApp] No such file or directory: Stock Market
+[W 07:48:11.232 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879290899 (143.165.48.50) 1.23ms referer=http://mobilytics.in:8888/lab?
+[W 07:48:22.223 NotebookApp] No such file or directory: Stock Market
+[W 07:48:22.224 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879301890 (143.165.48.50) 1.21ms referer=http://mobilytics.in:8888/lab?
+[W 07:48:32.226 NotebookApp] No such file or directory: Stock Market
+[W 07:48:32.226 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879311891 (143.165.48.50) 1.23ms referer=http://mobilytics.in:8888/lab?
+[W 07:48:43.231 NotebookApp] No such file or directory: Stock Market
+[W 07:48:43.233 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879322896 (143.165.48.50) 2.78ms referer=http://mobilytics.in:8888/lab?
+[W 07:48:54.232 NotebookApp] No such file or directory: Stock Market
+[W 07:48:54.232 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879333893 (143.165.48.50) 1.24ms referer=http://mobilytics.in:8888/lab?
+[W 07:49:05.228 NotebookApp] No such file or directory: Stock Market
+[W 07:49:05.229 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879344891 (143.165.48.50) 1.19ms referer=http://mobilytics.in:8888/lab?
+[W 07:49:15.096 NotebookApp] No such file or directory: Stock Market
+[W 07:49:15.096 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879354905 (143.165.192.134) 1.20ms referer=http://mobilytics.in:8888/lab?
+[W 07:49:26.088 NotebookApp] No such file or directory: Stock Market
+[W 07:49:26.088 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879365900 (143.165.192.134) 1.20ms referer=http://mobilytics.in:8888/lab?
+[W 07:49:37.085 NotebookApp] No such file or directory: Stock Market
+[W 07:49:37.085 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879376896 (143.165.192.134) 1.15ms referer=http://mobilytics.in:8888/lab?
+[W 07:49:38.667 NotebookApp] delete /example.db
+[W 07:49:47.095 NotebookApp] No such file or directory: Stock Market
+[W 07:49:47.096 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879386903 (143.165.192.134) 1.16ms referer=http://mobilytics.in:8888/lab?
+[I 07:49:49.960 NotebookApp] Saving file at /Model Deployment.ipynb
+[W 07:49:58.095 NotebookApp] No such file or directory: Stock Market
+[W 07:49:58.095 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879397903 (143.165.192.134) 1.21ms referer=http://mobilytics.in:8888/lab?
+[W 07:50:09.210 NotebookApp] No such file or directory: Stock Market
+[W 07:50:09.210 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879408904 (143.165.192.134) 1.15ms referer=http://mobilytics.in:8888/lab?
+[W 07:50:19.102 NotebookApp] No such file or directory: Stock Market
+[W 07:50:19.103 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879418928 (143.165.192.134) 0.98ms referer=http://mobilytics.in:8888/lab?
+[W 07:50:30.096 NotebookApp] No such file or directory: Stock Market
+[W 07:50:30.096 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879429923 (143.165.192.134) 1.22ms referer=http://mobilytics.in:8888/lab?
+[W 07:50:41.094 NotebookApp] No such file or directory: Stock Market
+[W 07:50:41.094 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879440918 (143.165.192.134) 1.55ms referer=http://mobilytics.in:8888/lab?
+[W 07:50:52.092 NotebookApp] No such file or directory: Stock Market
+[W 07:50:52.093 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879451918 (143.165.192.134) 1.50ms referer=http://mobilytics.in:8888/lab?
+[W 07:51:02.095 NotebookApp] No such file or directory: Stock Market
+[W 07:51:02.096 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879461921 (143.165.192.134) 1.49ms referer=http://mobilytics.in:8888/lab?
+[W 07:51:12.094 NotebookApp] No such file or directory: Stock Market
+[W 07:51:12.094 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879471923 (143.165.192.134) 1.56ms referer=http://mobilytics.in:8888/lab?
+[W 07:51:23.101 NotebookApp] No such file or directory: Stock Market
+[W 07:51:23.102 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879482931 (143.165.192.134) 1.53ms referer=http://mobilytics.in:8888/lab?
+[W 07:51:34.100 NotebookApp] No such file or directory: Stock Market
+[W 07:51:34.101 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879493926 (143.165.192.134) 1.46ms referer=http://mobilytics.in:8888/lab?
+[W 07:51:45.107 NotebookApp] No such file or directory: Stock Market
+[W 07:51:45.108 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879504933 (143.165.192.134) 1.50ms referer=http://mobilytics.in:8888/lab?
+[I 07:51:50.381 NotebookApp] Saving file at /Model Deployment.ipynb
+[W 07:51:51.383 NotebookApp] delete /example.db
+[W 07:51:56.101 NotebookApp] No such file or directory: Stock Market
+[W 07:51:56.102 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879515924 (143.165.192.134) 1.50ms referer=http://mobilytics.in:8888/lab?
+[W 07:52:07.104 NotebookApp] No such file or directory: Stock Market
+[W 07:52:07.105 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879526932 (143.165.192.134) 1.51ms referer=http://mobilytics.in:8888/lab?
+[W 07:52:18.107 NotebookApp] No such file or directory: Stock Market
+[W 07:52:18.108 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879537932 (143.165.192.134) 1.44ms referer=http://mobilytics.in:8888/lab?
+[W 07:52:29.115 NotebookApp] No such file or directory: Stock Market
+[W 07:52:29.116 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879548933 (143.165.192.134) 1.45ms referer=http://mobilytics.in:8888/lab?
+[W 07:52:39.110 NotebookApp] No such file or directory: Stock Market
+[W 07:52:39.111 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879558935 (143.165.192.134) 1.24ms referer=http://mobilytics.in:8888/lab?
+[W 07:52:50.108 NotebookApp] No such file or directory: Stock Market
+[W 07:52:50.108 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879569927 (143.165.192.134) 1.48ms referer=http://mobilytics.in:8888/lab?
+[W 07:53:00.103 NotebookApp] No such file or directory: Stock Market
+[W 07:53:00.103 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879579928 (143.165.192.134) 1.52ms referer=http://mobilytics.in:8888/lab?
+[W 07:53:10.105 NotebookApp] No such file or directory: Stock Market
+[W 07:53:10.105 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879589929 (143.165.192.134) 1.47ms referer=http://mobilytics.in:8888/lab?
+[W 07:53:21.118 NotebookApp] No such file or directory: Stock Market
+[W 07:53:21.118 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879600915 (143.165.192.134) 1.53ms referer=http://mobilytics.in:8888/lab?
+[W 07:53:32.106 NotebookApp] No such file or directory: Stock Market
+[W 07:53:32.106 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879611914 (143.165.192.134) 1.49ms referer=http://mobilytics.in:8888/lab?
+[W 07:53:42.108 NotebookApp] No such file or directory: Stock Market
+[W 07:53:42.109 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879621916 (143.165.192.134) 1.48ms referer=http://mobilytics.in:8888/lab?
+[I 07:53:49.982 NotebookApp] Saving file at /Model Deployment.ipynb
+[W 07:53:53.109 NotebookApp] No such file or directory: Stock Market
+[W 07:53:53.109 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879632914 (143.165.192.134) 1.46ms referer=http://mobilytics.in:8888/lab?
+[W 07:54:03.107 NotebookApp] No such file or directory: Stock Market
+[W 07:54:03.108 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879642915 (143.165.192.134) 1.53ms referer=http://mobilytics.in:8888/lab?
+[W 07:54:14.113 NotebookApp] No such file or directory: Stock Market
+[W 07:54:14.114 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879653920 (143.165.192.134) 1.53ms referer=http://mobilytics.in:8888/lab?
+[W 07:54:25.111 NotebookApp] No such file or directory: Stock Market
+[W 07:54:25.111 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879664919 (143.165.192.134) 1.48ms referer=http://mobilytics.in:8888/lab?
+[W 07:54:27.320 NotebookApp] delete /example.db
+[W 07:54:36.118 NotebookApp] No such file or directory: Stock Market
+[W 07:54:36.120 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879675922 (143.165.192.134) 2.60ms referer=http://mobilytics.in:8888/lab?
+[W 07:54:46.485 NotebookApp] delete /example.db
+[W 07:54:47.112 NotebookApp] No such file or directory: Stock Market
+[W 07:54:47.113 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879686920 (143.165.192.134) 1.43ms referer=http://mobilytics.in:8888/lab?
+[W 07:54:58.118 NotebookApp] No such file or directory: Stock Market
+[W 07:54:58.118 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879697919 (143.165.192.134) 1.52ms referer=http://mobilytics.in:8888/lab?
+[W 07:55:08.116 NotebookApp] No such file or directory: Stock Market
+[W 07:55:08.117 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879707920 (143.165.192.134) 1.45ms referer=http://mobilytics.in:8888/lab?
+[W 07:55:18.119 NotebookApp] No such file or directory: Stock Market
+[W 07:55:18.120 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879717925 (143.165.192.134) 1.47ms referer=http://mobilytics.in:8888/lab?
+[W 07:55:29.128 NotebookApp] No such file or directory: Stock Market
+[W 07:55:29.128 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879728931 (143.165.192.134) 1.34ms referer=http://mobilytics.in:8888/lab?
+[W 07:55:33.705 NotebookApp] delete /example.db
+[W 07:55:40.115 NotebookApp] No such file or directory: Stock Market
+[W 07:55:40.115 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879739924 (143.165.192.134) 1.47ms referer=http://mobilytics.in:8888/lab?
+[I 07:55:49.990 NotebookApp] Saving file at /Model Deployment.ipynb
+[W 07:55:51.116 NotebookApp] No such file or directory: Stock Market
+[W 07:55:51.116 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879750925 (143.165.192.134) 1.22ms referer=http://mobilytics.in:8888/lab?
+[W 07:56:02.120 NotebookApp] No such file or directory: Stock Market
+[W 07:56:02.121 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879761924 (143.165.192.134) 1.41ms referer=http://mobilytics.in:8888/lab?
+[W 07:56:13.126 NotebookApp] No such file or directory: Stock Market
+[W 07:56:13.127 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879772932 (143.165.192.134) 1.52ms referer=http://mobilytics.in:8888/lab?
+[W 07:56:23.119 NotebookApp] No such file or directory: Stock Market
+[W 07:56:23.119 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879782947 (143.165.192.134) 1.51ms referer=http://mobilytics.in:8888/lab?
+[W 07:56:34.120 NotebookApp] No such file or directory: Stock Market
+[W 07:56:34.120 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879793946 (143.165.192.134) 1.48ms referer=http://mobilytics.in:8888/lab?
+[W 07:56:44.941 NotebookApp] delete /example.db
+[W 07:56:45.119 NotebookApp] No such file or directory: Stock Market
+[W 07:56:45.119 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879804946 (143.165.192.134) 1.44ms referer=http://mobilytics.in:8888/lab?
+[W 07:56:56.122 NotebookApp] No such file or directory: Stock Market
+[W 07:56:56.122 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879815947 (143.165.192.134) 1.47ms referer=http://mobilytics.in:8888/lab?
+[W 07:57:06.126 NotebookApp] No such file or directory: Stock Market
+[W 07:57:06.128 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879825947 (143.165.192.134) 2.92ms referer=http://mobilytics.in:8888/lab?
+[W 07:57:17.125 NotebookApp] No such file or directory: Stock Market
+[W 07:57:17.125 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879836934 (143.165.192.134) 1.52ms referer=http://mobilytics.in:8888/lab?
+[W 07:57:28.126 NotebookApp] No such file or directory: Stock Market
+[W 07:57:28.126 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879847934 (143.165.192.134) 1.53ms referer=http://mobilytics.in:8888/lab?
+[W 07:57:39.163 NotebookApp] No such file or directory: Stock Market
+[W 07:57:39.164 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879858940 (143.165.192.134) 1.00ms referer=http://mobilytics.in:8888/lab?
+[I 07:57:50.003 NotebookApp] Saving file at /Model Deployment.ipynb
+[W 07:57:50.125 NotebookApp] No such file or directory: Stock Market
+[W 07:57:50.126 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879869933 (143.165.192.134) 1.47ms referer=http://mobilytics.in:8888/lab?
+[W 07:58:00.135 NotebookApp] No such file or directory: Stock Market
+[W 07:58:00.136 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879879935 (143.165.192.134) 1.44ms referer=http://mobilytics.in:8888/lab?
+[W 07:58:11.128 NotebookApp] No such file or directory: Stock Market
+[W 07:58:11.129 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879890934 (143.165.192.134) 1.46ms referer=http://mobilytics.in:8888/lab?
+[W 07:58:21.134 NotebookApp] No such file or directory: Stock Market
+[W 07:58:21.135 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879900939 (143.165.192.134) 1.49ms referer=http://mobilytics.in:8888/lab?
+[W 07:58:32.129 NotebookApp] No such file or directory: Stock Market
+[W 07:58:32.130 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879911938 (143.165.192.134) 1.47ms referer=http://mobilytics.in:8888/lab?
+[W 07:58:33.446 NotebookApp] delete /example.db
+[W 07:58:43.132 NotebookApp] No such file or directory: Stock Market
+[W 07:58:43.132 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879922938 (143.165.192.134) 1.52ms referer=http://mobilytics.in:8888/lab?
+[W 07:58:54.135 NotebookApp] No such file or directory: Stock Market
+[W 07:58:54.135 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879933939 (143.165.192.134) 1.21ms referer=http://mobilytics.in:8888/lab?
+[W 07:59:05.129 NotebookApp] No such file or directory: Stock Market
+[W 07:59:05.130 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879944938 (143.165.192.134) 1.47ms referer=http://mobilytics.in:8888/lab?
+[W 07:59:16.137 NotebookApp] No such file or directory: Stock Market
+[W 07:59:16.138 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879955938 (143.165.192.134) 1.49ms referer=http://mobilytics.in:8888/lab?
+[W 07:59:26.136 NotebookApp] No such file or directory: Stock Market
+[W 07:59:26.136 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879965944 (143.165.192.134) 1.46ms referer=http://mobilytics.in:8888/lab?
+[W 07:59:37.138 NotebookApp] No such file or directory: Stock Market
+[W 07:59:37.140 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879976942 (143.165.192.134) 2.71ms referer=http://mobilytics.in:8888/lab?
+[W 07:59:47.137 NotebookApp] No such file or directory: Stock Market
+[W 07:59:47.138 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879986943 (143.165.192.134) 1.48ms referer=http://mobilytics.in:8888/lab?
+[I 07:59:50.015 NotebookApp] Saving file at /Model Deployment.ipynb
+[W 07:59:58.140 NotebookApp] No such file or directory: Stock Market
+[W 07:59:58.141 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514879997943 (143.165.192.134) 1.47ms referer=http://mobilytics.in:8888/lab?
+[W 08:00:09.145 NotebookApp] No such file or directory: Stock Market
+[W 08:00:09.145 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514880008948 (143.165.192.134) 1.07ms referer=http://mobilytics.in:8888/lab?
+[W 08:00:19.183 NotebookApp] No such file or directory: Stock Market
+[W 08:00:19.185 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514880018994 (143.165.192.134) 2.69ms referer=http://mobilytics.in:8888/lab?
+[W 08:00:30.140 NotebookApp] No such file or directory: Stock Market
+[W 08:00:30.140 NotebookApp] 404 GET /api/contents/Stock%20Market?content=1&1514880029948 (143.165.192.134) 1.45ms referer=http://mobilytics.in:8888/lab?
